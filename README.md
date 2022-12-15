@@ -1,1 +1,1 @@
-A simple static website for Kulfi Retreat
+# A simple static website for Kulfi Retreat
